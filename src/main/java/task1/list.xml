@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trains>
+    <train id="1">
+        <date>19.07.2022</date>
+        <departure>15:05</departure>
+        <from>Kiev</from>
+        <to>Donetsk</to>
+    </train>
+    <train id="2">
+        <date>21.07.2022</date>
+        <departure>13:45</departure>
+        <from>Kiev</from>
+        <to>Lviv</to>
+    </train>
+    <train id="3">
+        <date>24.07.2022</date>
+        <departure>11:40</departure>
+        <from>Kiev</from>
+        <to>Zaporozhye</to>
+    </train>
+    <train id="4">
+        <date>28.07.2022</date>
+        <departure>11:45</departure>
+        <from>Kiev</from>
+        <to>Uzhgorod</to>
+    </train>
+    <train id="5">
+        <date>5.08.2022</date>
+        <departure>10:40</departure>
+        <from>Kiev</from>
+        <to>Gitomir</to>
+    </train>
+    <train id="6">
+        <date>15.08.2022</date>
+        <departure>11:40</departure>
+        <from>Kiev</from>
+        <to>Dnepr</to>
+    </train>
+    <train id="7">
+        <date>15.08.2022</date>
+        <departure>10:45</departure>
+        <from>Kiev</from>
+        <to>Lugansk</to>
+    </train>
+    <train id="8">
+        <date>9.07.2022</date>
+        <departure>18:40</departure>
+        <from>Kiev</from>
+        <to>Sevastopol</to>
+    </train>
+    <train id="9">
+        <date>2.08.2022</date>
+        <departure>16:40</departure>
+        <from>Kiev</from>
+        <to>Simferopol</to>
+    </train>
+    <train id="10">
+        <date>5.08.2022</date>
+        <departure>17:30</departure>
+        <from>Kiev</from>
+        <to>Sumy</to>
+    </train>
+    <train id="11">
+        <date>9.07.2022</date>
+        <departure>12:50</departure>
+        <from>Kiev</from>
+        <to>London</to>
+    </train>
+    <train id="12">
+        <date>9.07.2022</date>
+        <departure>15:50</departure>
+        <from>Kiev</from>
+        <to>Paris</to>
+    </train>
+</trains>
